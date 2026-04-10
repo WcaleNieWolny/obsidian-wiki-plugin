@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-wiki",
+  "description": "Connects Claude Code to your Obsidian wiki — injects wiki context on session start and saves conversation history automatically",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michal Tremblay"
+  }
+}
