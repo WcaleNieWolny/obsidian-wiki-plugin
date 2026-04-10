@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-wiki",
+  "owner": {
+    "name": "WcaleNieWolny"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-wiki",
+      "source": "./",
+      "description": "Obsidian wiki context injection and conversation history for Claude Code",
+      "version": "0.1.0",
+      "author": {
+        "name": "WcaleNieWolny"
+      },
+      "repository": "https://github.com/WcaleNieWolny/obsidian-wiki-plugin",
+      "license": "MIT",
+      "keywords": ["obsidian", "wiki", "knowledge-base"]
+    }
+  ]
+}
